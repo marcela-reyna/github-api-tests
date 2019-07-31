@@ -1,4 +1,4 @@
-# s-factor
+# s-factor backend tests
 This reposity has a bare bones pytest framework for backend testing. 
 
 Running the tests
