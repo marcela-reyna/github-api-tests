@@ -1,4 +1,4 @@
-# s-factor backend tests
+# Github backend tests
 This reposity has a bare bones pytest framework for backend REST testing of various APIs. 
 
 Running the tests
