@@ -3,4 +3,4 @@ This reposity has a bare bones pytest framework for backend REST testing of vari
 
 Running the tests
 1. Clone the repo
-2. Run run-tests-local.sh
+2. Run ./run-tests-local.sh
